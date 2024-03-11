@@ -14,7 +14,7 @@
   "description": "Tea Protocol Testnet",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gizr9494/teh.git"
+    "url": "https://github.com/gizr9494/teh"
   },
   "keywords": [
     "teaprotocol"
